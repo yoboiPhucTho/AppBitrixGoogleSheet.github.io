@@ -1,4 +1,4 @@
-apiKey: 'AIzaSyAjSVfwp6v41Yw6EM3xxZo9GrupraMZAoM'
+apiKey: 'AIzaSyAjSVfwp6v41Yw6EM3xxZo9GrupraMZAoM' \n
 OAuth2 clientId: '51821663752-mqvju5esh446m69udlfbt1etl7o6qq6t.apps.googleusercontent.com'
 clientId: '106255217177064575479' (Service Account cliendId)
 scope: 'https://www.googleapis.com/auth/spreadsheets'
