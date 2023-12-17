@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "exporting-invoices-bitrix24",
+  "private_key_id": "6e3a92c0a312886733f6e8e2586088042b217374",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCCd4SG1P3BaWG1\ntTuz8vYVoJ09LUtvRWTA8htRPoBrX5KH1kW6Xk/CvrgAvwLQCnttruzLbXSNHqld\nNYXGv9rPar3kc/qyvXTMVtkGZJRLKsiEqKwNXZGZoFfeKlElTL3/MkOeOKHbqiNb\nmAUcVww97Na+zuw6r/sgmSEcqPk0bzb9LH+AnSnJ3frBVjhtk5NVbz0NyxQtHm3v\nO9a3zKNUTcf43YOgui2278zOZ8LTcE33HoWID08AieLEAtEgJFiMNi0SpMSN5NfB\n0hBSyuNqvhk9iZOnNc1Vp05dVARvcXgRMMH3ghtEjgRb4c/xmpy8h0ZrPXG/lZLO\nao4UJvblAgMBAAECggEAAw2ZoVoh/MENk1Cuw/2fOqRWlFRCBqmWEQSEFSOkTQmg\nho3syyQNM8koydkDz4CJ9j14tyNUQz/WG3ihgnmCPQZfc+rZkWM+SiXiJZ8m7+y2\nt+axQrgk1yEvIo4qS01/c2sRYAYtQNRmHWzyTwEj0oh/V1nE93P01C92hz2BD3QI\n71TDoFxCIfW4hEwZnivrMDZxJkyCNw8mCHYIiveNm6oUg/ze4I3A7drVcCOii03z\nN1wGuSKtgbCy8WRcfqMYkwgs2j4ZYROcFHxyJqPYBNM3faShRmXr3USjUIoG5SWZ\nNkgKCMJshBjF8rNAe/5XzjJCFd5MGOG8Y9VngTazhQKBgQC24Qnf7z8GpsyOvo5M\nMjuCZxWaHsdOyDyo19Kj2XfEFs5NAROCKwbXozU90mfSPUnKXTjhdEKhnXjMKbma\nhGGYkeK5a/BIB3yk556DsnldeoSqABv5MQjXK/PIiP+v7ZhXnuEyj5DXOkmbacHV\n1ZLDLOWYKwWoKGd3cYUfk3K6AwKBgQC2obi/UUoixEgl2IC3t8blkMUEWNfzwj2s\nAd38kE7g0UZAlxPrE8es8OHKopLwJsms1Z0vCg0c1AmVHO8KJvwimzknPkbTy4OM\nI4C6IB/kv6q4fFY/ioHTE/kyuq2PWGzYzVoGAjYoaU7OoeoH7EPAi1YviYsWHxS+\ny0PL3/sq9wKBgDv4UdeoSd+xhPTuUhV0h4U8rp3KqAsSqKmplH58isS3wdEIoFAY\nMfc2ovfx7m/H/1Gn/kYYbN04mWtB54ZfEO4KMPIjDjlgkyQ0fAut1BSuX6CrxoCR\n7tc4p4nEOyyC2mkpRanh4Fpj181qAdFQZv8v0t5yhTlefodxp3jyTjXnAoGAcHC/\nCuMkbqVD+jEChpnaFep8sgF063myeJ0pq965AYc25ntdYwTpkZs4mIZhSwPGdOeL\nf7ODgTU2tRx8O1bnMvM4S+X2u1z4H6aYEX/HwxESLcU3YKWI6ojIiygNxUxer1g2\nza4848J6J5PeP4SB7iCbLmdTP4phPlps4i+DNt8CgYA6sIiZ+Fl9r3MmeNljC3aO\n1VcO/s94jXl5cCMl4Moh66n20vToxIimxEigSVx7z85o3/YLgGH6iuD9hZCGHqF6\nE7YKhGoMY7GW8h1IRHg9BelSCbOrWkWv2kFQUXUE3Bh/4Crr1BZKhsMD45wD9bq8\na46f6PlBpwICq/TDwIlFFw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "daylaserviceaccount@exporting-invoices-bitrix24.iam.gserviceaccount.com",
+  "client_id": "106255217177064575479",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/daylaserviceaccount%40exporting-invoices-bitrix24.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

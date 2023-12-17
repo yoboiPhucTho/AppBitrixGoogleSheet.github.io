@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Google Sheets API Example</title>
+  <style>
+    body {
+      background-color: pink;
+    }
+  </style>
+</head>
+<body>
+  <button type="button" onclick="addData()">Add Data</button>
+  <table id="dataTable" border="1">
+    <!-- Table headers will be added dynamically -->
+  </table>
+  <script src="./GETDATAFROMGOOGLESHEETVIAAPI.js"></script>
+  <script src="./WRITEDATATOGOOGLESHEETVIAAPI.js"></script>
+  <script src="https://apis.google.com/js/client.js?onload=getData"></script>
+  <script src="https://apis.google.com/js/api.js" type="text/javascript"></script>
+</body>
+</html>
